@@ -2,3 +2,23 @@
   Переменные для вашего проекта
   и их переопределение под различные устройства
 */
+
+:root{
+  --project-font-family: "IBM Plex Mono", "Arial", sans-serif;
+  --negative-text: #000028;
+  --regular-font-size: 18px;
+  --min-height: 668px;
+  --shadow-font: #ff0070;
+  --regular-line-height: 100%;
+  --regular-font-size: 18px;
+  --button-color: #FF0070;
+  --rec-color: #FF0070;
+  --title-color: #DB00FF;
+  --accent-color: #ff0070;
+  --title-decor: #FF0070;
+  --decoration-gap: clamp(10px , 2.65vw , 20px);
+  --question-color:#FF0070;
+  --text-color: #F1B2CE;
+  --text-shadow: #ff0070;
+  --min-height: 668px;
+}
