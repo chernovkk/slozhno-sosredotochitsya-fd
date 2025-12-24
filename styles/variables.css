@@ -6,6 +6,7 @@
 :root{
   --project-font-family: "IBM Plex Mono", "Arial", sans-serif;
   --negative-text: #000028;
+  --page-bg-color: rgba(0, 0, 40, 1);
   --regular-font-size: 18px;
   --min-height: 668px;
   --shadow-font: #ff0070;
@@ -20,5 +21,7 @@
   --question-color:#FF0070;
   --text-color: #F1B2CE;
   --text-shadow: #ff0070;
-  --min-height: 668px;
+  --decoration-color: #ff0070;
+  --decor_link-color: #F1B2CE; 
+  --bg-image: url(../images/cover-image-dark.png);
 }

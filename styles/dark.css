@@ -5,6 +5,39 @@
 */
 
 :root.theme-dark {
+  --bg-image: url(../images/cover-image-dark.png); 
+  --border-color-opacity: #FF007066;
+  --page-bg-color: rgba(0, 0, 40, 1); 
+  --negative-text: #000028;
+  --shadow-font: #ff0070;
+  --button-color: #FF0070;
+  --rec-color: #FF0070;
+  --title-color: #DB00FF;
+  --accent-color: #ff0070;
+  --title-decor: #FF0070;
+  --question-color:#FF0070;
+  --text-color: #F1B2CE;
+  --text-shadow: #ff0070;
+  --decoration-color: #ff0070;
+  --decor_link-color: #F1B2CE;
+}
+
+@media (prefers-color-scheme: light) {
+  :root{
   --bg-image-dark: url(../images/cover-image-dark.png); 
   --border-color-opacity: #FF007066;
+  --page-bg-color:rgba(0, 0, 40, 1); 
+  --negative-text: #000028;
+  --shadow-font: #ff0070;
+  --button-color: #FF0070;
+  --rec-color: #FF0070;
+  --title-color: #DB00FF;
+  --accent-color: #ff0070;
+  --title-decor: #FF0070;
+  --question-color:#FF0070;
+  --text-color: #F1B2CE;
+  --text-shadow: #ff0070;
+  --decoration-color: #ff0070;
+  --decor_link-color: #F1B2CE;
+}
 }
