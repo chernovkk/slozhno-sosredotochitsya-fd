@@ -11,7 +11,6 @@
   --min-height: 668px;
   --shadow-font: #ff0070;
   --regular-line-height: 100%;
-  --regular-font-size: 18px;
   --button-color: #FF0070;
   --rec-color: #FF0070;
   --title-color: #DB00FF;
@@ -24,4 +23,5 @@
   --decoration-color: #ff0070;
   --decor_link-color: #F1B2CE;
   --bg-image: url(../images/cover-image-dark.png);
+  --border-color-opacity: rgba(255, 0, 112, 0.4);
 }

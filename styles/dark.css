@@ -20,9 +20,10 @@
   --text-shadow: #ff0070;
   --decoration-color: #ff0070;
   --decor_link-color: #F1B2CE;
+  --border-color-opacity: rgba(255, 0, 112, 0.4);
 }
 
-@media (prefers-color-scheme: light) {
+@media (prefers-color-scheme: dark) {
   :root {
   --bg-image-dark: url(../images/cover-image-dark.png);
   --border-color-opacity: #FF007066;
@@ -39,6 +40,7 @@
   --text-shadow: #ff0070;
   --decoration-color: #ff0070;
   --decor_link-color: #F1B2CE;
+  --border-color-opacity: rgba(255, 0, 112, 0.4);
 }
 }
 .theme-dark .reс__word {
