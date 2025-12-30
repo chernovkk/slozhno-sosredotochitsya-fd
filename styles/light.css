@@ -10,7 +10,6 @@
     чем стили в медиазапросе предпочтений пользователя
   */
   --bg-image: url(../images/cover-image-light.png);
-  --border-color-opacity: #32312D66;
   --page-bg-color: rgba(255, 241, 247, 1);
   --negative-text: #353430;
   --shadow-font: #FF8DCB;
@@ -30,7 +29,6 @@
 @media (prefers-color-scheme: light) {
   :root {
    --bg-image: url(../images/cover-image-light.png);
-  --border-color-opacity: #32312D66;
   --page-bg-color: rgba(255, 241, 247, 1);
   --negative-text: #353430;
   --shadow-font: #FF8DCB;

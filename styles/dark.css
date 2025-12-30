@@ -6,7 +6,6 @@
 
 :root.theme-dark {
   --bg-image: url(../images/cover-image-dark.png);
-  --border-color-opacity: #FF007066;
   --page-bg-color: rgba(0, 0, 40, 1);
   --negative-text: #000028;
   --shadow-font: #ff0070;
@@ -26,7 +25,6 @@
 @media (prefers-color-scheme: dark) {
   :root {
   --bg-image-dark: url(../images/cover-image-dark.png);
-  --border-color-opacity: #FF007066;
   --page-bg-color:rgba(0, 0, 40, 1);
   --negative-text: #000028;
   --shadow-font: #ff0070;
@@ -44,5 +42,5 @@
 }
 }
 .theme-dark .reс__word {
-  display: block;
+  display: inline-flex;
 }
