@@ -317,11 +317,12 @@ margin-bottom: 50px;
   .answer__title {
     margin: 0 0 10px 0;
   }
-  .alignment{
+
+  .alignment {
     position: relative;
     bottom: 10px;
   }
-  
+
   .answer__text {
     margin-bottom: 20px;
   }
@@ -374,7 +375,8 @@ margin-bottom: 50px;
 .section__why {
   gap: 10px;
 }
-.alignment{
+
+.alignment {
   position: relative;
   bottom: 10px;
 }
